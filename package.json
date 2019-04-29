@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junlee91/junlee91.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junlee91/junlee91.github.io/issues"
+  },
+  "homepage": "https://github.com/junlee91/junlee91.github.io#readme",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
