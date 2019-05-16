@@ -1,47 +1,12 @@
 @import "/css/reset.css";
-@import "/css/grid-kiss.css";
 @import "/css/font.css";
+@import "/css/main-slider.css";
 
-header {
-  display: flex;
-  align-items: center;
-  background: transparent;
-  position: sticky;
-  padding: 15px 20px;
-  color: white;
-  top: 0;
-}
-
-.main {
+main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: black;
-  margin-top: -60px;
-  overflow: hidden;
-}
-
-.bloc2 {
-  background: green;
-}
-
-.bloc3 {
-  background: purple;
-}
-
-.bloc4 {
-  background: chocolate;
-}
-
-.bloc {
-  text-align: center;
-  color: white;
-  font-size: 48px;
-  padding: 15px;
-}
-
-.black {
-  color: black;
-  background: white;
-  transition: background-color 0.3s ease-in-out;
+  background: #fafafa;
+  width: 100vw;
+  height: 100vh;
 }

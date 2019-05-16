@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  align-items: center;
+  background: transparent;
+  position: sticky;
+  color: white;
+  top: 0;
+  height: 60px;
+}
+
+.black {
+  color: black;
+  background: white;
+  transition: background-color 0.3s ease-in-out;
+}

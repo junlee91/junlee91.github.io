@@ -7,7 +7,7 @@
     "url": "git+https://github.com/junlee91/junlee91.github.io.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jun Hyeop Lee",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/junlee91/junlee91.github.io/issues"
@@ -23,11 +23,8 @@
     "plugins": {
       "postcss-preset-env": {
         "stage": 0
-      },
-      "postcss-grid-kiss": true
+      }
     }
   },
-  "devDependencies": {
-    "postcss-grid-kiss": "^2.1.2"
-  }
+  "devDependencies": {}
 }
